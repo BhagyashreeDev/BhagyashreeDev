@@ -1,15 +1,15 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi+there+👋+I'm+Bhagyashree+Badadal!;Software+Developer+💻;Java+Backend+Engineer+☕;AI+%7C+ML+Enthusiast+🤖;Quick+Learner+%26+Problem+Solver+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi+there+👋+I'm+Bhagyashree+Badadal!;Java+Backend+Engineer+☕;Software+Developer+💻;Quick+Learner+%26+Problem+Solver+✨" />
 </p>
 
 ---
 
 ## 👩‍💻 **About Me**
 I’m a passionate **Java Backend & Full Stack Developer**, committed to creating scalable, clean, and meaningful software.  
-I love exploring **AI/ML**, solving complex problems, and continuously improving my craft.
+I love exploring **Java|SQL|React**, solving complex problems, and continuously improving my craft.
 
-✨ *Turning ideas into real-world solutions is my superpower.*  
+✨ *Working on improving my skills*  
 🤝 Open to collaborations and innovative opportunities!
 
 ---
@@ -23,17 +23,17 @@ I love exploring **AI/ML**, solving complex problems, and continuously improving
 
 ### 🔹 Backend & Databases  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=spring,mysql,oracle" />
 </p>
 
 ### 🔹 Web Development  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux" />
 </p>
 
 ### 🔹 Tools & Platforms  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,eclipse,androidstudio,jupyter" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,eclipse,jupyter" />
 </p>
 
 ---
@@ -101,6 +101,4 @@ Sri Siddhartha Institute of Technology, Tumkur (2021–2025)
 
 ## ✨ **Thanks for visiting!**
 If you like my work, don’t forget to ⭐ my repositories!  
-<p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="200" />
-</p>
+
