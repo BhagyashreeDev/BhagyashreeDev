@@ -1,7 +1,9 @@
 <!-- Header Banner -->
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi+there+👋+I'm+Bhagyashree+Badadal!;Java+Backend+Engineer+☕;Software+Developer+💻;Quick+Learner+%26+Problem+Solver+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=30&duration=3000&pause=1000&color=3BA6F6&center=true&vCenter=true&width=760&lines=Hi+there+👋+I'm+Bhagyashree+Badadal!;Java+Backend+Engineer+☕;Software+Developer+💻;Recent+Graduate+Looking+for+Opportunities+🚀;" />
 </p>
+
 
 ---
 
