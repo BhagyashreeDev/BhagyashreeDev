@@ -1,110 +1,106 @@
-Hi, I'm Bhagyashree Badadal! 👋
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi+there+👋+I'm+Bhagyashree+Badadal!;Software+Developer+💻;Java+Backend+Engineer+☕;AI+%7C+ML+Enthusiast+🤖;Quick+Learner+%26+Problem+Solver+✨" />
+</p>
 
-Full Stack Developer | Java & Spring Boot | React/Redux | Deep Learning Enthusiast
+---
 
-🚀 About Me
+## 👩‍💻 **About Me**
+I’m a passionate **Java Backend & Full Stack Developer**, committed to creating scalable, clean, and meaningful software.  
+I love exploring **AI/ML**, solving complex problems, and continuously improving my craft.
 
-I am an Engineering Graduate (CGPA: 9.14) specializing in Information Science, passionate about delivering end-to-end scalable solutions. My expertise spans the Full Stack, from building responsive, state-managed user interfaces with React and Redux to creating robust, optimized APIs using Java and Spring Boot.
+✨ *Turning ideas into real-world solutions is my superpower.*  
+🤝 Open to collaborations and innovative opportunities!
 
-🧠 Key Strengths: Applying SOLID Principles to backend architecture, data-driven Deep Learning (MobileNetV2), and quickly mastering new technologies.
+---
 
-🎯 Objective: Seeking a challenging role where I can leverage my full-stack capabilities to contribute to impactful, user-focused applications.
+## 🚀 **Tech Stack & Tools**
 
-🛠️ Technical Toolkit
+### 🔹 Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c" />
+</p>
 
-This matrix covers my complete skillset, from core programming fundamentals to specialized frameworks.
+### 🔹 Backend & Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,mysql,sqlite" />
+</p>
 
-Category
+### 🔹 Web Development  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php" />
+</p>
 
-Skills & Tools
+### 🔹 Tools & Platforms  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,eclipse,androidstudio,jupyter" />
+</p>
 
-Frontend & UI
+---
 
-React, Redux, JavaScript, HTML, CSS, Bootstrap
+## 🏆 **Featured Projects**
 
-Backend & Core
+### 🫘 **Analysis of Food Pulses Using Deep Learning**
+- MobileNetV2 + ResNet50 ensemble via soft voting  
+- Web app for real-time predictions with confidence scores  
 
-Java, Spring Boot, Python, C, Unix, REST APIs
+### 📊 **Placements Pulse – Tableau Edition**
+- Interactive dashboards of college placement trends  
+- Excel preprocessing + Tableau insights  
 
-Databases
+### 🌫️ **Air Pollution Management System**
+- Arduino + ESP32 IoT setup  
+- Gas sensor (MQ135) + DHT11 with ThingSpeak cloud  
 
-SQL, MySQL Workbench IDE
+---
 
-ML/Data Tools
+## 🎓 **Education**
+🎓 **B.E. in Information Science & Engineering – CGPA: 9.14**  
+Sri Siddhartha Institute of Technology, Tumkur (2021–2025)
 
-Deep Learning (MobileNetV2, ResNet50), Machine Learning, Tableau, Excel
+---
 
-Development Practices
+## 🏅 **Certifications**
+- 🛡️ **NASSCOM – Data Privacy Analyst**  
+- ☕ **Java Backend Development – Revature (3 Months)**
 
-Git, SOLID Principles, Data Structures and Algorithms (DSA), Design Patterns, Agile
+---
 
-Tools & IDEs
+## 💡 **Strengths**
+✔ Problem Solving  
+✔ Analytical Thinking  
+✔ Communication  
+✔ Fast Learning  
+✔ Adaptability  
 
-IntelliJ IDEA, VS Code, Postman, Eclipse, Jupyter Notebook
+---
 
-🌟 Featured Projects
+## 📈 **GitHub Stats**
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BhagyashreeDev&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhagyashreeDev&layout=compact&theme=tokyonight" />
+</p>
 
-These projects demonstrate my ability to move from concept to implementation, combining programming fundamentals with specialized tools.
+---
 
-1. Analysis of Food Pulses Using Deep Learning
+## 🐍 **Contribution Snake Animation**
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
-Technologies: Python, Deep Learning (MobileNetV2, ResNet50), Web App Integration
+---
 
-Description: Built a deep learning system for automated classification of various food pulses using image data.
+## 🔗 **Connect With Me**
+<p align="center">
+  <a href="mailto:iambhagyashreebadadal@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://linkedin.com/in/bhagyashreebadadal"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/BhagyashreeDev"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
 
-Key Achievement: Enhanced classification accuracy by combining two powerful models (MobileNetV2 and ResNet50) via soft voting. Integrated the model into a web application for real-time predictions and confidence scores.
+---
 
-2. Placements Pulse: Tableau Edition
-
-Technologies: Tableau, Excel, Data Preprocessing
-
-Description: Developed interactive visual dashboards to analyze and present college placement trends, salary fluctuations, and student performance data over multiple years.
-
-Key Achievement: Used advanced Excel techniques for data cleaning, providing clear, actionable insights into hiring patterns and improving the reliability of the visual analytics.
-
-3. Air Pollution Management System (IoT)
-
-Technologies: Arduino, IoT, ESP32, ThingSpeak (Cloud Database)
-
-Description: Designed and implemented an IoT-based system to monitor air quality using multiple sensors (MQ135, DHT11).
-
-Key Achievement: Successfully utilized the ESP32 microcontroller to process data and transmit real-time sensor readings to the ThingSpeak cloud database, establishing a functional remote monitoring solution.
-
-🎓 Education & Certifications
-
-Bachelor of Engineering in Information Science and Engineering (2021-2025)
-
-Sri Siddhartha Institute of Technology, Tumkur, Karnataka | CGPA: 9.14
-
-Training: Java Backend Development (Revature Pre-Training, 3 months intensive on Spring Boot, SQL, REST APIs)
-
-Certification: Data Privacy Analyst (NASSCOM)
-
-🔗 Let's Connect!
-
-I am actively seeking roles in Software Development and Data Science. Feel free to connect with me!
-
-Platform
-
-Link
-
-Email
-
-iambhagyashreebadadal@gmail.com
-
-LinkedIn
-
-[Your LinkedIn Profile]
-
-GitHub
-
-[Your GitHub Profile]
-
-<!-- Optional: Uncomment and replace 'YOUR_GITHUB_USERNAME' below to show your activity stats! -->
-
-<!--
-
-📊 GitHub Stats
-
-
--->
+## ✨ **Thanks for visiting!**
+If you like my work, don’t forget to ⭐ my repositories!  
+<p align="center">
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="200" />
+</p>
