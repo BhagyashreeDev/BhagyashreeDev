@@ -1,135 +1,109 @@
-<!-- Header Banner -->
-<!-- Header Banner -->
+<!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=30&duration=3000&pause=1000&color=3BA6F6&center=true&vCenter=true&width=760&lines=Hi+there+😊+I'm+Bhagyashree+Badadal!;Recent+Graduate+Looking+for+Opportunities+🚀;Java+Backend+Engineer;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1200&color=3BA6F6&center=true&vCenter=true&width=760&lines=Hi+👋+I'm+Bhagyashree+Badadal;Java+Backend+%7C+Full+Stack+Developer;Building+Clean+and+Scalable+Software" />
 </p>
-
-
-
-## 👩‍💻 **About Me**
-I’m a passionate **Java Backend & Full Stack Developer**, committed to creating scalable, clean, and meaningful software.  
-I love exploring **Java|SQL|React**, solving complex problems, and continuously improving my craft.
-
-✨ *Working on improving my skills*  
-🤝 Open to collaborations and innovative opportunities!
 
 ---
 
-## 🚀 **Tech Stack & Tools**
+## 👩‍💻 About
 
-### 🔹 Languages  
-<p align="left">
+I am a **Java Backend & Full Stack Developer** with a strong foundation in  
+**Core Java, Spring Boot, SQL, and RESTful API development**.
+
+I focus on writing **clean, maintainable code**, applying **OOP principles**, and building practical applications that solve real problems.
+
+- Backend-focused with full-stack exposure
+- Strong in Java fundamentals & problem-solving
+- Open to software development opportunities and collaboration
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
   <img src="https://skillicons.dev/icons?i=java,python,c" />
 </p>
 
-### 🔹 Backend & Databases  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,mysql,oracle" />
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,mongodb" />
 </p>
 
-### 🔹 Web Development  
-<p align="left">
+### Frontend
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux" />
 </p>
 
-### 🔹 Tools & Platforms  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,eclipse,jupyter" />
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,eclipse,vscode" />
 </p>
 
 ---
 
-## 🏆 **Featured Projects**
+## 📌 Selected Projects
 
-### 🫘 **Analysis of Food Pulses Using Deep Learning**
-- MobileNetV2 + ResNet50 ensemble via soft voting  
-- Web app for real-time predictions with confidence scores  
-
-### 📊 **Placements Pulse – Tableau Edition**
-- Interactive dashboards of college placement trends  
-- Excel preprocessing + Tableau insights  
-
-### 🌫️ **Air Pollution Management System**
-- Arduino + ESP32 IoT setup  
-- Gas sensor (MQ135) + DHT11 with ThingSpeak cloud  
+### 🕹️ PacMan Game — Java
+- Built a classic PacMan game using **Core Java**
+- Implemented game loop, collision detection, scoring logic
+- Applied **Object-Oriented Design** for modular architecture  
+🔗 https://github.com/BhagyashreeDev/pacman
 
 ---
 
-## 🎓 **Education**
-**B.E. in Information Science & Engineering – CGPA: 9.14**  
- Sri Siddhartha Institute of Technology, Tumkur (2021–2025)
+### 🏥 Appointment Management System — React
+- CRUD-based appointment scheduling application
+- Built with **React Hooks** and reusable components
+- Focused on clean UI and state management  
+🔗 https://bhagyashreedev.github.io/appointment-management-system/
 
 ---
 
-## 🏅 **Certifications**
-**NASSCOM – Data Privacy Analyst**  
-**Java Backend Development – Revature (3 Months)**
-
-
-
-## 💡 **Strengths**
-✔ Problem Solving  
-✔ Analytical Thinking  
-✔ Communication  
-✔ Quick Learning  
-✔ Adaptability  
+### 📊 Placements Pulse — Tableau
+- Interactive dashboards for placement trend analysis
+- Data preprocessing using Excel
+- Insight-driven visual analytics  
+🔗 https://bhagyashreedev.github.io/tableau-html-dashboard/
 
 ---
 
-## 🚀 My Coding Journey  
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Learning-blue?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Java%20%7C%20SpringBoot%20%7C%20SQL-0A77FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Goal-Full%20Stack%20Developer-1E90FF?style=for-the-badge" />
-</p>
 
-✨ Behind every project is a journey of growth, late-night debugging, and continuous learning.  
-As a **recent graduate**, I’m building strong foundations and improving every single day.
+## 🎯 Current Focus
 
-
-
-## 🌱 Skills I'm Growing 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,react" height="45"/>
-</p>
-
-- Mastering Java, Spring Boot & REST APIs  
-- Improving SQL + Database design  
-- Building full-stack apps using React  
-- Strengthening DSA for problem-solving  
-- Contributing to open-source (beginner-friendly repos)
-
-
-
-## 🎯 2025 Goals  
-✨ Build 5+ impactful projects  
-✨ Contribute to open-source beginner-friendly repos  
-✨ Master backend engineering fundamentals  
-✨ Crack developer interviews  
-✨ Become job-ready with strong portfolio  
-
-
-## 💙 Personal Motivation  
-<p align="center">
-  <i>"Consistency makes beginners unstoppable — and professionals unbeatable."</i>
-</p>
-
+- Advanced **Java & Spring Boot**
+- REST API design & backend best practices
+- SQL optimization & database design
+- Data Structures & Algorithms
+- Building production-quality projects
 
 ---
 
-## 🐍 **Contribution Snake Animation**
+## 💡 Professional Values
+
+- Clean and readable code
+- Strong fundamentals over shortcuts
+- Continuous learning
+- Problem-first mindset
+- Consistency and discipline
+
+---
+
+## 🐍 GitHub Activity
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🔗 **Connect With Me**
+## 🔗 Connect
 <p align="center">
-  <a href="mailto:iambhagyashreebadadal@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://linkedin.com/in/bhagyashreebadadal"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/BhagyashreeDev"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="mailto:iambhagyashreebadadal@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/bhagyashreebadadal">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
-
 
 
