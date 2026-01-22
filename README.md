@@ -42,13 +42,12 @@ I focus on writing **clean, maintainable code**, applying **OOP principles**, an
 
 ---
 
-## 📌 Selected Projects
+## 📌 Projects
 
-### 🕹️ PacMan Game — Java
-- Built a classic PacMan game using **Core Java**
-- Implemented game loop, collision detection, scoring logic
-- Applied **Object-Oriented Design** for modular architecture  
-🔗 https://github.com/BhagyashreeDev/pacman
+### 🕹️ Shop Management System — Java, Hibernate, MySQL, Maven
+- Developed a Java Swing desktop application to manage shop inventory and user accounts with a persistent MySQL database.
+- Implemented Hibernate ORM to handle data persistence, including @OneToOne mapping for linking products with image metadata.
+🔗 https://github.com/BhagyashreeDev/shop_management_system
 
 ---
 
@@ -73,7 +72,7 @@ I focus on writing **clean, maintainable code**, applying **OOP principles**, an
 
 - Advanced **Java & Spring Boot**
 - REST API design & backend best practices
-- SQL optimization & database design
+- Learn MongoDB 
 - Data Structures & Algorithms
 - Building production-quality projects
 
