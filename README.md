@@ -14,7 +14,11 @@
 
 ## About Me
 
-I recently completed my Software Developer Internship at **L&T Technology Services (LTTS)**, where I worked on migrating legacy cross-platform apps from Xamarin.Forms to .NET MAUI and learned MVVM architecture. Before that, I trained intensively in Full Stack Java Development at **Kodnest**, and completed a Java Backend Developer pre-training program at **Revature**.
+I am currently working as an **IT Intern at Invicto Labs Pvt. Ltd.**, where I work on JavaScript-based automation and web data extraction using **Node.js, Puppeteer, and Express.js**. This experience has helped me strengthen my JavaScript skills and gain practical exposure to automation and working with real-world web applications.
+
+Previously, I completed a Software Developer Internship at **L&T Technology Services (LTTS)**, Worked with an existing Xamarin.Forms code structure and converted parts of it to .NET MAUI. Learned the basic syntax and structural differences between Xamarin.Forms and .NET MAUI and gained an understanding of **MVVM architecture**. 
+
+I also trained intensively in Full Stack Java Development at **Kodnest**, and completed a Java Backend Developer pre-training program at **Revature**.
 
 I'm a B.E. graduate in Information Science and Engineering (CGPA: 9.14) from Sri Siddhartha Institute of Technology, Tumkur.
 
@@ -24,14 +28,15 @@ I'm a B.E. graduate in Information Science and Engineering (CGPA: 9.14) from Sri
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,git,github,vscode,postman,nodejs,express&theme=dark" />
 
 </div>
 
-**Languages:** Java, JavaScript 
-**Backend:** Spring Boot, Hibernate, REST APIs, JWT Authentication, Maven, Node  
+**Languages:** Java, JavaScript  
+**Backend:** Spring Boot, Hibernate, REST APIs, JWT Authentication, Maven, Node.js, Express.js  
 **Frontend:** React, HTML, CSS, Vite  
 **Database:** MySQL  
+**Automation:** Puppeteer  
 **Tools:** Git, GitHub, Eclipse, VS Code, Postman, MySQL Workbench
 
 <br>
@@ -102,26 +107,7 @@ Interactive dashboard on college placement trends.
 ## Currently
 
 ```text
-Practicing DSA on LeetCode
-Strengthening Spring Boot and REST API fundamentals
-Learning Apache Kafka and exploring microservices
-```
-
-<br>
-
-## Certifications
-🏅 HackerRank Gold Badges — Java, SQL (2025)
-
-<br>
-
-<div align="center">
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="80%"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:3BA6F6&height=100&section=footer"/>
-
-<i>Thanks for stopping by — feel free to reach out!</i>
-
-</div>
+Working as an IT Intern at Invicto Labs Pvt. Ltd.
+Building JavaScript automation scripts using Node.js and Puppeteer
+Exploring Agentic AI
+Strengthening Spring Boot, REST APIs, and backend development
