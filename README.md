@@ -33,7 +33,7 @@ I'm a B.E. graduate in Information Science and Engineering (CGPA: 9.14) from Sri
 </div>
 
 **Languages:** Java, JavaScript  
-**Backend:** Spring Boot, Hibernate, REST APIs, JWT Authentication, Maven, Node.js, Express.js  
+**Backend:** Spring Boot, Hibernate, REST APIs, JWT Authentication, Maven, Node.js 
 **Frontend:** React, HTML, CSS, Vite  
 **Database:** MySQL  
 **Automation:** Puppeteer  
